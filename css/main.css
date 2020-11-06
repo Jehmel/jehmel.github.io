@@ -1,0 +1,43 @@
+
+        body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+
+h1 {
+  font-size: 40px;
+  font-style: bold;
+  text-align: center;
+  color: lightgreen;
+  padding: 25px;
+  background-color: blue;
+  border-radius: 10px;
+}
+img{
+  float: right;
+  padding: 10px;
+}
+h2 {
+  padding: 10px;
+  border-bottom: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+p {
+  font-size: 15px;
+  color: lightgreen;
+  text-align: center;
+  padding: 15px;
+  background-color: blue;
+  border-radius: 10px;
+}
+em { 
+  font-size: 10px;
+  color: yellow;
+}
+#school {
+  color: lightgreen;
+  background-color: transparent;
+}
+  
