@@ -1,0 +1,56 @@
+body { 
+    margin: 1em;
+}
+header{ 
+    margin: 1em auto; 
+    max-width: 75em; 
+    height: auto;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+ }
+ header1 {
+     font-size: 40px;
+     font-style: bold;
+     text-align: center;
+     color: lightgreen;
+     padding: 25px;
+ }
+h2 {
+    font-size: 1 rem;
+    color: lightgreen;
+    font-family: helvetica, arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+main{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightblue;
+    border-radius; 10px;
+}
+section{
+    margin: .5rem;
+    padding: 1rem;
+}
+footer{
+    border-radius: 10px;
+    text-align: center;
+    background-color:  blue;
+    border-radius: 10px;
+    color: lightgreen;
+    max-width: 75em;
+    margin: 1em auto;
+}
+img{
+    max-width: 100%;
+}
+#lastModified {
+    text-align: center;
+}
