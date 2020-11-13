@@ -1,3 +1,6 @@
+body { 
+    margin: 1em;
+}
 header{
     color: lightgreen;
     margin: 1em auto; 
