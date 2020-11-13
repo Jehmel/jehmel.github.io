@@ -44,7 +44,6 @@ table#fonts, table.colors{
     padding: 8px;
 }
 footer{
-    max-width: 75em; 
     border-radius: 10px;
     text-align: center;
     background-color:  blue;
