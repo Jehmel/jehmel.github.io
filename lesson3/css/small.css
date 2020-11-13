@@ -16,6 +16,18 @@ li{
   padding-right: 30px;
   background-color: yellow;
 }
+main{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+section{
+    margin: .5rem;
+    padding: 1rem;
+}
 footer{
     border-radius: 10px;
     text-align: center;
