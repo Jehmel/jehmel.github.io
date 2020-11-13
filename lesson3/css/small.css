@@ -40,7 +40,7 @@ table#fonts, table.colors{
     width = 50%;
 }
 #fonts td, #fonts th{
-    border: 1px solid;
+    border: 1px solid #aaa;
     padding: 8px;
 }
 footer {
