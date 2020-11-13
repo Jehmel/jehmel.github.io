@@ -34,8 +34,14 @@ section{
 table#fonts, table.colors{
     margin-left: auto;
     margin-right: auto;
+#fonts {
+    border-collapse: collapse;
+    width = 50%;
 }
-
+#fonts td, #fonts th{
+    border: 1px solid;
+    padding: 8px;
+}
 footer{
     border-radius: 10px;
     text-align: center;
