@@ -22,6 +22,7 @@ li{
 main{
     font-size: 15px;
     color: black;
+    max-width: 75em; 
     text-align: center;
     padding: 15px;
     background-color: lightblue;
