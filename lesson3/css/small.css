@@ -21,7 +21,7 @@ li{
 }
 main{
     font-size: 15px;
-    color: black;
+    color:black;
     
     text-align: center;
     padding: 15px;
@@ -43,11 +43,12 @@ table#fonts, table.colors{
     border: 1px solid;
     padding: 8px;
 }
-footer{
+footer {
     border-radius: 10px;
     text-align: center;
     background-color:  blue;
     border-radius: 10px;
     color: lightgreen;
-   
+    max-width: 75em;
+    margin: 1em auto;
 }
