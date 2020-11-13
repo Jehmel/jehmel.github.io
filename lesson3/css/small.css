@@ -30,6 +30,10 @@ main{
 section{
     margin: .5rem;
     padding: 1rem;
+}t
+table#fonts{
+    margin-left: auto;
+    margin-right: auto;
 }
 footer{
     border-radius: 10px;
