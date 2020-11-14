@@ -42,3 +42,11 @@ footer {
     max-width: 75em;
     margin: 1em auto;
 }
+em { 
+    font-size: 10px;
+    color: yellow;
+}
+#school {
+    color: lightgreen;
+    background-color: transparent;
+}
