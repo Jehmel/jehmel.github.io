@@ -19,6 +19,9 @@ li{
   padding-right: 30px;
   background-color: yellow;
 }
+.varr{
+  display: block;  
+}
 main{
     font-size: 15px;
     margin: auto;
@@ -33,7 +36,7 @@ section{
     margin: .5rem;
     padding: 1rem;
 }
-table,th,td{
+table,tr,td{
     border: 2px solid blue;
     border-collapse: collapse;
     margin-left: auto;
