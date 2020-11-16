@@ -22,7 +22,7 @@ li{
 main{
     font-size: 15px;
     color:black;
-    
+    max-width: 75em; 
     text-align: center;
     padding: 15px;
     background-color: lightblue;
@@ -34,8 +34,6 @@ section{
 }
 table,th,td{
     border: 2px solid blue;
-    max-width: 75em; 
-    width: 100%;
 }
 
 footer {
