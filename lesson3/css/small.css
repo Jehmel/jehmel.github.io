@@ -40,6 +40,9 @@ table,th,td{
     margin-right: auto;
     padding: 3px;
 }
+th, td{
+    padding 10px;
+}
 .headsample{
     font: 40px bree serif;
 }
