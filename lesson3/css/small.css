@@ -38,8 +38,23 @@ table,th,td{
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
+    padding: 3px;
 }
-
+.primarycolor{
+    background-color: #058FB6;
+}
+.secondarycolor{
+    background-color: #A2e4e1;
+}
+.accent1color{
+    background-color:#fbfbfa;
+}
+.accent2color{
+    background-color: #449c9a;
+}
+.contrastcolor{
+    background-color: #843d4f;   
+}
 footer {
     border-radius: 10px;
     text-align: center;
