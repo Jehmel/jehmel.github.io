@@ -22,7 +22,8 @@ li{
 .varr{
   display: block;  
   padding: 10px;
-  background-color: lightyellow;
+  background-color: yellow;
+  border: 1px;
 }
 main{
     font-size: 15px;
