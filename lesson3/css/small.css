@@ -34,6 +34,8 @@ section{
 }
 table,th,td{
     border: 2px solid blue;
+    max-width: 75em; 
+    width: 100%;
 }
 
 footer {
