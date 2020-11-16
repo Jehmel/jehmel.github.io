@@ -40,7 +40,7 @@ table,th,td{
     margin-right: auto;
     padding: 3px;
 }
-th, td{
+tr, td{
     padding 10px;
 }
 .headsample{
