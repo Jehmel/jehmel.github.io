@@ -1,12 +1,6 @@
 @media only screen and  (min-width: 32.5em) {
-    h2 {
-        font-size: 1.5rem;
-        }
-    main{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        margin: 0 auto;
-        max-width: 70em;
-        font-size: 0.8rem;
-    }
+   nav ul {
+       display: grid;
+       grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+   }
 }
