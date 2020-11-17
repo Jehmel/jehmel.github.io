@@ -12,7 +12,7 @@ header{
     padding: 1em;
 }
 li{
-  display: inline;
+  display: block;
   border-radius: 10px;
   padding:10px;
   padding-left: 30px;
@@ -22,7 +22,7 @@ li{
 .varr{
   display: block;  
   padding: 10px;
-  background-color:lightblue;
+  background-color: yellow;
   border: 1px;
 }
 main{
