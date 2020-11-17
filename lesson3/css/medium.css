@@ -1,6 +1,6 @@
 @media only screen and  (min-width: 32.5em) {
    nav ul {
-       display: grid;
-       grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+       display: flex;
+       nav ul li {flex: 1 1 100%}
    }
 }
