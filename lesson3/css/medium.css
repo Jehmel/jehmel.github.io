@@ -1,6 +1,6 @@
 @media only screen and  (min-width: 37.5em) {
-   ul {
-     display: inline; 
+nav, ul {
+     display: block; 
      max-width: 75em;  
      grid-template-columns: 1fr 1fr 1fr 1fr;
      margin: 30px;
