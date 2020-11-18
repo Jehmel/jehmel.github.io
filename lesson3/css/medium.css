@@ -1,8 +1,8 @@
 @media only screen and  (min-width: 37.5em) {
 nav, ul {
-     display: block; 
-     max-width: 75em;  
-     grid-template-columns: 1fr 1fr 1fr 1fr;
+     display: grid; 
+     
+     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
    }
    li {
      margin-top: 50px;
