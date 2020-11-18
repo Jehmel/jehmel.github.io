@@ -3,7 +3,6 @@ nav, ul {
      display: block; 
      max-width: 75em;  
      grid-template-columns: 1fr 1fr 1fr 1fr;
-     
    }
    li {
      margin-top: 50px;
