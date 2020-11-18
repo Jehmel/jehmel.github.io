@@ -1,11 +1,11 @@
 @media only screen and (min-width: 1050px) {
    nav, ul, li {
-        display: block;
-        grid-template-columns: 1fr 1fr 1fr 1fr; 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
        
     }
     ul, li {
-        margin-top: 50px;
-        border: 1px black;
+        margin-top: 15px;
+        border: 2px black;
     }
 }
