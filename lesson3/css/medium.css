@@ -1,5 +1,5 @@
 @media only screen and  (min-width: 37.5em) {
    nav li {
-     display: block;     
+     display: inline;     
    }
 }
