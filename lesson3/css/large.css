@@ -1,5 +1,5 @@
 @media only screen and (min-width: 1050px) {
-    nav {
+    ul {
         display: block;
         grid-template-columns: 1fr 1fr 1fr 1fr; 
         margin: auto; 
