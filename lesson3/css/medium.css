@@ -3,6 +3,6 @@
      display: inline; 
      max-width: 75em;  
      grid-template-columns: 1fr 1fr 1fr 1fr;
-     margin: 300px;
+     margin: 30px;
    }
 }
