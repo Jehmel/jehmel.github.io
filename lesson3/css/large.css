@@ -1,10 +1,10 @@
 @media only screen and (min-width: 1050px) {
-    ul {
+   nav, ul, li {
         display: block;
         grid-template-columns: 1fr 1fr 1fr 1fr; 
        
     }
-    li {
+    ul, li {
         margin-top: 50px;
         border: 1px black;
     }
