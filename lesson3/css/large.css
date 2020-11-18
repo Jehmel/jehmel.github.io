@@ -2,6 +2,6 @@
     ul {
         display: block;
         grid-template-columns: 1fr 1fr 1fr 1fr; 
-        margin: 10px;
+        margin: 30px;
     }
 }
