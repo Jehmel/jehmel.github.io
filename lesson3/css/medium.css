@@ -2,7 +2,6 @@
    ul {
      display: inline; 
      max-width: 75em;  
-     margin: auto; 
      grid-template-columns: 1fr 1fr 1fr 1fr;
    }
 }
