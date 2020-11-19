@@ -21,6 +21,10 @@ li{
   padding-right: 30px;
   background-color: yellow;
 }
+.block{
+    display: block;
+    background-color: lightblue
+}
  .varr{  
   display: block;  
   padding: 10px;
