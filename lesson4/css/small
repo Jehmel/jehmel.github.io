@@ -1,0 +1,116 @@
+body { 
+    margin: 1em;
+}
+header{
+    color: lightgreen;
+    margin: 1em auto; 
+    max-width: 75em; 
+    height: auto;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+}
+li{
+  display: block;
+  border-radius: 10px;
+  padding:10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: yellow;
+}
+.varr{
+  display: block;  
+  padding: 10px;
+  background-color: yellow;
+  border: 1px;
+}
+main{
+    font-size: 15px;
+    margin: auto;
+    color:black;
+    max-width: 50em; 
+    text-align: center;
+    padding: 15px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+section{
+    margin: .5rem;
+    padding: 1rem;
+}
+table,tr,td{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+}
+tr, td{
+    padding 10px;
+}
+.headsample{
+    font: 40px bree serif;
+}
+.subheadsample{
+    font: 25px open sans;
+}
+.navsample{
+    font: 30px bree serif;
+}
+.footsample{
+    font: 20px open sans;
+}
+.h1sample{
+    font: 30px bree serif;
+}
+.h2sample{
+    font: 25px bree serif;
+}
+.h3sample{
+    font: 20px bree serif;
+}
+.parasample{
+    font: 16px open sans;
+}
+.primarycolor{
+    background-color: #058FB6;
+}
+.secondarycolor{
+    background-color: #A2e4e1;
+}
+.accent1color{
+    background-color:#fbfbfa;
+}
+.accent2color{
+    background-color: #449c9a;
+}
+.contrastcolor{
+    background-color: #843d4f;   
+}
+.navigation li:not(#ham) {
+    display: none;
+}
+.responsive li:not(#ham) {
+    display: block;
+}
+#headerlogo {
+    height: 100px;
+    float: left;
+}
+footer {
+    border-radius: 10px;
+    text-align: center;
+    background-color:  blue;
+    border-radius: 10px;
+    color: lightgreen;
+    max-width: 75em;
+    margin: 1em auto;
+}
+em { 
+    font-size: 10px;
+    color: yellow;
+}
+#school, header h2 a {
+    color: lightgreen;
+    background-color: transparent;
