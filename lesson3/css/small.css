@@ -26,7 +26,7 @@ li{
  .varr{  
   display: block;  
   padding: 10px;
-  background-color:lightblue;
+  background-color: lightblue;
   border: 1px;
 }
 main{
@@ -41,7 +41,6 @@ main{
 }
 ul.block{
     display: block;
-    background-color: lightblue;
 }    
 section{
     margin: .5rem;
