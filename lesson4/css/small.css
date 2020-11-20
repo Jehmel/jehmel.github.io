@@ -50,28 +50,28 @@ tr, td{
     padding: 10px;
 }
 .headsample{
-    font: 40px bree serif;
+    font: 40px breeserif;
 }
 .subheadsample{
-    font: 25px open sans;
+    font: 25px opensans;
 }
 .navsample{
-    font: 30px bree serif;
+    font: 30px breeserif;
 }
 .footsample{
-    font: 20px open sans;
+    font: 20px opensans;
 }
 .h1sample{
-    font: 30px bree serif;
+    font: 30px breeserif;
 }
 .h2sample{
-    font: 25px bree serif;
+    font: 25px breeserif;
 }
 .h3sample{
-    font: 20px bree serif;
+    font: 20px breeserif;
 }
 .parasample{
-    font: 16px open sans;
+    font: 16px opensans;
 }
 .primarycolor{
     background-color: #058FB6;
