@@ -94,6 +94,10 @@ tr, td{
 .responsive li:not(#ham) {
     display: block;
 }
+section{
+    display: inline;
+    
+}
 #headerlogo {
     height: 100px;
     float: left;
