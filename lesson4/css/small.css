@@ -47,7 +47,7 @@ table,tr,td{
     padding: 3px;
 }
 tr, td{
-    padding 10px;
+    padding: 10px;
 }
 .headsample{
     font: 40px bree serif;
@@ -115,3 +115,4 @@ em {
 #school, header h2 a {
     color: lightgreen;
     background-color: transparent;
+}
