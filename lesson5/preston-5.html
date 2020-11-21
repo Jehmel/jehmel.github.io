@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 4 | Preston Town Weather Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="css/small.css">
+    <link rel="stylesheet" href="css/medium.css">
+    <link rel="stylesheet" href="css/large.css">
+    <script src="js/lastModified.js" defer></script> 
+</head>
+<body>
+    <header>
+        <section>
+         <img id="headerlogo" src="images/logo.png" alt="logo" />
+            <h2>Whatever you plan, wherever you go, knowing the weather is a must for you.</h2>
+            <nav>
+                <ul class="navigation">
+                    <li id="ham"><a onclick="toggleMenu()" href="#">&#9776; Menu</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Preston</a></li>
+                    <li><a href="#">Soda Springs</a></li>
+                    <li><a href="#">Fish Haven</a></li>
+                    <li><a href="#">Strom Center</a></li>
+                    <li><a href="#">Gallery</a></li>
+                </ul>
+            </nav>
+        </section>
+    </header>
+    <main>
+        <h2>Preston Idaho</h2>
+            <div>
+                <div class="banner-img"><img src="images/mountains_1.jpg" alt="mountains"></div>
+                <div id="overlay">
+                    <h2 class="weatherhead"><u>Weather Summary</u></h2>
+                    <div class="weatherinfo">Currently: Sunny</div>
+
+                    <div class="weatherinfo">Current Temp High: 76°F</div>
+
+                    <div class="weatherinfo">Wind Chill: 15°F</div>
+
+                    <div class="weatherinfo">Humidity: 69%</div>
+
+                    <div class="weatherinfo">Wind Speed: 5 mph</div>
+                </div>
+            </div>
+            <div>
+                <h2>Temperature Forecast</h2>
+                <table>
+                    <tr>
+                        <th>Day</th>
+                        <th id="day1">Wed</th>
+                        <th id="day2">Thu</th>
+                        <th id="day3">Fri</th>
+                        <th id="day4">Sat</th>
+                        <th id="day5">Sun</th>
+                    </tr>
+                    <tr>
+                        <td>Temp</td>
+                        <td id="temp1">60&deg;</td>
+                        <td id="temp2">68&deg;</td>
+                        <td id="temp3">56&deg;</td>
+                        <td id="temp4">52&deg;</td>
+                        <td id="temp5">44&deg;</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="article">
+                <img class="news-img" src="images/valley_1.jpg" alt="valleyview">
+                <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit.
+                    Nulla consectetur justo eu nunc ultricies, at bibendum dolor
+                    volutpat. Aliquam ornare lectus eget libero pretium, in
+                    cursus nulla consectetur. Morbi eu condimentum urna.
+                </p>
+
+            </div>
+            <div id="contacts-container">
+                    <section id="s-elements">
+                        <img class="preston-map" src="images/preston-map.jpg" alt="map of Preston, Idaho">
+                        <h4>Contact Information</h4>
+                        <p>55 E 1st S Preston, ID 83263</p>
+                        <p>email@email.com</p>
+                        <p>(208) 852-3443</p>
+                        <a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener"><img
+                                class="smedia" src="images/facebook.png" alt="facebook"></a>
+                        <a href="https://www.instagram.com/" target="_blank" rel="noreferrer noopener"><img
+                                class="smedia" src="images/instagram.png" alt="instagram"></a>
+                        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer noopener"><img class="smedia"
+                                src="images/youtube.png" alt="youtube"></a>
+                        <a href="https://twitter.com/" target="_blank" rel="noreferrer noopener"><img class="smedia"
+                                src="images/twitter.png" alt="twitter"></a>
+                    </section>
+
+            </div>
+    </main>
+    <footer>
+        <p>&copy;2020| Jehmel C. Ofreneo | Philippines | <a id="school" href="https://www.byui.edu/online">BYUI Online Learning</a>
+          <br> <em id="lastModified">Last Updated:mm/dd/yyyy hh:mm</em>
+        </p>
+    </footer>
+    <script src="js/lastModified.js"></script>
+</body>
+</html>
+
