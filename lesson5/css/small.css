@@ -117,6 +117,6 @@ em {
     background-color: transparent;
 }
 .banner-img {
-    max-width: 75em;
+    width: 75em;
     height: auto;
 }
