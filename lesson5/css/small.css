@@ -117,7 +117,10 @@ em {
     color: lightgreen;
     background-color: transparent;
 }
-.banner-img, news.img {
+.banner-img  {
     width: 100%;
     height: auto;
+}
+.news-img {
+    width
 }
