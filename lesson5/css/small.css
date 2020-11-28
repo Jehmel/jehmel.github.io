@@ -1,5 +1,6 @@
 body { 
     margin: 1em;
+    max-width: 75em; 
 }
 header{
     color: lightgreen;
@@ -117,6 +118,6 @@ em {
     background-color: transparent;
 }
 .banner-img {
-    width: 75em;
-    height: 200px;
+    width: 100%;
+    height: auto;
 }
