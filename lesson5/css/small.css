@@ -124,3 +124,13 @@ em {
 .news-img {
     
 }
+.herodiv {
+    margin:10px auto; position: relative;
+}
+.overlay {
+    position: absolute;
+    top: 25px;
+    left:50px;
+    background: green;
+    border: 1px sp;od #010;
+}
