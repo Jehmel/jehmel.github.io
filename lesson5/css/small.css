@@ -120,7 +120,7 @@ em {
 .banner-img  {
     object-fit: cover;
     width: 50%;
-    height: auto;
+    height: 50%;
 }
 .news-img {
     
