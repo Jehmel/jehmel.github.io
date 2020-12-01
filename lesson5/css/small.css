@@ -128,7 +128,7 @@ em {
 .herodiv {
     margin:10px auto; position: relative;
 }
-.overlay {
+#overlay {
     position: absolute;
     top: 25px;
     left:50px;
