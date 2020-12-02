@@ -41,6 +41,10 @@ section{
     padding: 1rem;
 }
 
+#headerlogo {
+    height: 100px;
+    float: left;
+}
 footer {
     border-radius: 10px;
     text-align: center;
