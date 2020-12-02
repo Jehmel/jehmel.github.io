@@ -121,6 +121,8 @@ em {
     object-fit: cover;
     width: 50%;
     height: 50%;
+    margin: auto;
+
 }
 .news-img {
     
