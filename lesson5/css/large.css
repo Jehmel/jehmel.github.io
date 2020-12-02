@@ -8,7 +8,7 @@
     #ham {
         display: none;
         }
-    .temperature, .preston-map{
+    div.temperature, .preston-map{
         display: none;
     }    
 }
