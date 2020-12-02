@@ -134,3 +134,6 @@ em {
     background: green;
     border: 1px sp;od #010;
 }
+div.temperature, .preston-map{
+    display: block;
+}   
