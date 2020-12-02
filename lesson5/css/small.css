@@ -55,3 +55,7 @@ em {
     color: lightgreen;
     background-color: transparent;
 }
+.banner-img  { 
+    width: 100%;
+    height: auto;
+}
