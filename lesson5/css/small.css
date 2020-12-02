@@ -38,3 +38,12 @@ section{
     height: 100px;
     float: left;
 }
+footer {
+    border-radius: 10px;
+    text-align: center;
+    background-color:  blue;
+    border-radius: 10px;
+    color: lightgreen;
+    max-width: 75em;
+    margin: 1em auto;
+}
