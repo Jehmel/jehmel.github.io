@@ -8,4 +8,7 @@
     #ham {
         display: none;
         }
+    .temperature, .preston-map{
+        display: none;
+    }    
 }
