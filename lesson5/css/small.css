@@ -120,8 +120,8 @@ em {
 .banner-img  { 
     display: block;
     object-fit: cover;
-    width: 40%;
-    height: 25%;
+    width: 100%;
+    height: auto;
 }
 .news-img {
     
