@@ -24,9 +24,13 @@ li{
     font-size: 15px;
     margin: auto;
     color:black;
-    max-width: 50em; 
+    max-width: 75em; 
     text-align: center;
     padding: 15px;
     background-color: lightblue;
     border-radius: 10px;
+}
+section{
+    margin: .5rem;
+    padding: 1rem;
 }
