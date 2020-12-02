@@ -40,66 +40,7 @@ section{
     margin: .5rem;
     padding: 1rem;
 }
-table,tr,td{
-    border: 2px solid blue;
-    border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 3px;
-}
-tr, td{
-    padding: 10px;
-}
-.headsample{
-    font: 40px breeserif;
-}
-.subheadsample{
-    font: 25px opensans;
-}
-.navsample{
-    font: 30px breeserif;
-}
-.footsample{
-    font: 20px opensans;
-}
-.h1sample{
-    font: 30px breeserif;
-}
-.h2sample{
-    font: 25px breeserif;
-}
-.h3sample{
-    font: 20px breeserif;
-}
-.parasample{
-    font: 16px opensans;
-}
-.primarycolor{
-    background-color: #058FB6;
-}
-.secondarycolor{
-    background-color: #A2e4e1;
-}
-.accent1color{
-    background-color:#fbfbfa;
-}
-.accent2color{
-    background-color: #449c9a;
-}
-.contrastcolor{
-    background-color: #843d4f;   
-}
-.navigation li:not(#ham) {
-    display: none;
-}
-.responsive li:not(#ham) {
-    display: block;
-}
 
-#headerlogo {
-    height: 100px;
-    float: left;
-}
 footer {
     border-radius: 10px;
     text-align: center;
