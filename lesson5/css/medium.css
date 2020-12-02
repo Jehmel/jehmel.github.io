@@ -1,12 +1,12 @@
 @media only screen and  (min-width: 37.5em) {
-    /* nav ul {
+     nav ul {
         display: grid;
     
     }
     ul {
      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
  }
- .navigation li:not(#ham) {
+ /*.navigation li:not(#ham) {
      display: block;
  }
  #ham {
