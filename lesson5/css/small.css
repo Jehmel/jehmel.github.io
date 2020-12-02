@@ -2,3 +2,13 @@ body {
     margin: 1em;
     max-width: 75em; 
 }
+header{
+    color: lightgreen;
+    margin: 1em auto; 
+    max-width: 75em; 
+    height: auto;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+}
