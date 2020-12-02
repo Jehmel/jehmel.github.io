@@ -55,7 +55,7 @@ em {
     color: lightgreen;
     background-color: transparent;
 }
-.banner-img  { 
+.banner-img, .news-img, .preston-map  { 
     width: 100%;
     height: auto;
 }
