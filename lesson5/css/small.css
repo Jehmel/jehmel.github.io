@@ -56,7 +56,7 @@ em {
     background-color: transparent;
 }
 .banner-img, .news-img, .preston-map  { 
-    width: 100%;
+    width: 10%;
     height: auto;
 }
 .herodiv {
