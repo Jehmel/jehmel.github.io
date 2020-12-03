@@ -14,8 +14,8 @@ header{
 }
 li{
     display: block;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 5px;
+    padding: 5px;
     padding-left: 5px;
     padding-right: 5px;
     background-color: yellow;

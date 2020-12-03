@@ -1,4 +1,4 @@
-@media only screen and  (min-width: 37.5em) {
+@media only screen and  (min-width: 512px) {
      nav ul {
         display: grid;
     
@@ -12,5 +12,8 @@
  #ham {
  display: none;
  } */
+    div.temperature, div.preston-map{ */
+     display: none; 
+}    
  
  }
