@@ -15,9 +15,9 @@ header{
 li{
     display: block;
     border-radius: 10px;
-    padding:10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
     background-color: yellow;
   }
   main{
