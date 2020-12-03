@@ -69,7 +69,7 @@ em {
 #overlay {
     position: absolute;
     top: 25px;
-    left:50px;
+    left: 75px;
     background: green;
     border: 1px sp; od #010;
 }
