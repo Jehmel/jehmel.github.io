@@ -1,3 +1,6 @@
 @media only screen and (min-width: 1050px) {
+    div.temperature, div.preston-map{  
+        display: none; 
+}
     
 }
