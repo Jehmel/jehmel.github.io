@@ -1,19 +1,19 @@
 @media only screen and  (min-width: 512px) {
-     nav ul {
+    nav ul {
         display: grid;
     
     }
     ul {
-     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
  }
- /*.navigation li:not(#ham) {
-     display: block;
+    .navigation li:not(#ham) {
+        display: block;
  }
- #ham {
- display: none;
- } */
-    div.temperature, div.preston-map{ */
-     display: none; 
+    #ham {
+        display: none;
+ } 
+    div.temperature, div.preston-map{ 
+        display: none; 
 }    
  
  }
