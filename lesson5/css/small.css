@@ -55,8 +55,12 @@ em {
     color: lightgreen;
     background-color: transparent;
 }
-.banner-img, .news-img, .preston-map  { 
-    width: 10%;
+.banner-img { 
+    width: 100%;
+    height: auto;
+}
+.news-img, .preston-map  { 
+    width: 100%;
     height: auto;
 }
 .herodiv {
